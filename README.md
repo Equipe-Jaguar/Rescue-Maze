@@ -5,4 +5,4 @@ Repositório de códigos da categoria [*Rescue Maze*](http://www.cbrobotica.org/
 ## SOBRE A CATEGORIA
 
 Texto em desenvolvimento.
-aaa   
+aaaaa   
